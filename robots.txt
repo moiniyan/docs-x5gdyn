@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-3d7jim.alefmail.org/sitemap.xml
